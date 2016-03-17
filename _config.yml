@@ -1,0 +1,28 @@
+name: postgamecoach
+favicon: null
+layout_spectrum: 0.5155732436105609
+typography_spectrum: 0.6431399751454592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.729600390419364
+  lightness: 0.8468862602021545
+  saturation: 0.41199453035369515
+  rhythmicContrast: 0.3640998883638531
+purpose: []
